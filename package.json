@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "name": "readme-generator",
+  "description": "CLI Project to makign readmes easier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
